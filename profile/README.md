@@ -56,7 +56,7 @@ We also build Unity-based VR training and simulation experiences for specialised
 - **Operational systems experience** including dashboards, reporting, automation, telemetry-style platforms, and workflow tools
 - **Industry exposure** across fintech, metering, IoT, access control, enterprise operations, and simulation/training systems
 
-These capabilities are reflected across the attached consultant profiles, including architecture leadership, full-stack delivery, ABP/.NET work, React Native/mobile delivery, automation, and Unity/VR development. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+These capabilities are reflected across the attached consultant profiles, including architecture leadership, full-stack delivery, ABP/.NET work, React Native/mobile delivery, automation, and Unity/VR development. 
 
 ---
 
