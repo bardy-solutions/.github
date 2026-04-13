@@ -1,9 +1,5 @@
 <div align="center">
 
-[![.NET](https://github.com/dotnet/core/workflows/.NET/badge.svg)](https://github.com/dotnet/core)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-![Metrics](https://github-readme-stats.vercel.app/api?username=bardy-solutions&show_icons=true)
-
 # Bardy Solutions
 
 ### South African software consultancy building scalable platforms, integrations, and product-ready systems
