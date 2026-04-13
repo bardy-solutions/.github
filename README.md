@@ -183,7 +183,3 @@ If you're looking for a reliable software partner for a new build, legacy modern
 **Website:** [bardysolutions.co.za](https://bardysolutions.co.za)
 
 ---
-
-## Consultant profiles
-
-Detailed team capability and experience were compiled from the attached Bardy Solutions consultant profiles. :contentReference[oaicite:11]{index=11}
